@@ -33,7 +33,7 @@ calculator/
 ## ▶️ How to Run
 
 1. Install Python (if not already installed).
-2. Clone the repository:
+2. Clone the repository:https://github.com/gouri1417/calculator/blob/main/README.md
 
 ```bash
 git clone https://github.com/gouri1417/calculator.git
