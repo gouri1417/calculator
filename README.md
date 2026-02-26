@@ -46,5 +46,5 @@ calculator/
 <img width="500" height="597" alt="image" src="https://github.com/user-attachments/assets/3d6ddfe0-618b-4366-9988-5a647fa3b676" />
 
 
-## ▶️ How to Run
+##  How to Run
 ...
