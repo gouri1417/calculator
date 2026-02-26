@@ -35,5 +35,16 @@ calculator/
 1. Install Python (if not already installed).
 2. Clone the repository:https://github.com/gouri1417/calculator/blob/main/README.md
 
-```bash
-git clone https://github.com/gouri1417/calculator.git
+## 🚀 Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## 📸 Screenshot
+
+<img width="500" height="597" alt="image" src="https://github.com/user-attachments/assets/3d6ddfe0-618b-4366-9988-5a647fa3b676" />
+
+
+## ▶️ How to Run
+...
